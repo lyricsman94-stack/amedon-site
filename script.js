@@ -50,10 +50,10 @@ async function saveAnswer(answer) {
 
     if (answer === "Po") {
       const photos = [
-        "foto1.jpg",
-        "foto2.jpg",
-        "foto3.jpg",
-        "foto4.jpg"
+        "images/foto1.png",
+        "images/foto2.png",
+        "images/foto3.png",
+        "images/foto4.png"
       ];
 
       let current = 0;
